@@ -54,11 +54,11 @@ main {
 text-align: center;
 }
 
-/*#home {
+#home {
 	font-size: 30px;
 	height:350px;
 	margin: 1px 1px 1px 1px;
-	padding: 30px;/*
+	padding: 30px;
 }
 
 #cooperation {
